@@ -1,3 +1,10 @@
+## MoodNFT
+
+**This is a ERC-721(NFT) Contract build using Foundry which has dynamic feature, where the owner can change the NFT as per his mood.**
+
+- Here I stored the NFT MetaData **ON-CHAIN** using openZepplin Base64 encoding 
+- Base64 Docs https://docs.openzeppelin.com/contracts/4.x/api/utils
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -64,3 +71,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
